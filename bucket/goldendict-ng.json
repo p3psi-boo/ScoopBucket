@@ -3,14 +3,13 @@
     "description": "The Next Generation GoldenDict",
     "homepage": "https://github.com/xiaoyifang/goldendict-ng",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/xiaoyifang/goldendict-ng/releases/download/v23.06.01-ChildrenDay.230601.6d3d4053/6.4.3-GoldenDict.exe_windows-2019_20230601-xapian.zip",
-    "hash": "sha256:3865aa38fc64296c667114e6db2127bd61bbc3c59afed7c89de8a4a373c5d2b7",
-    "extract_dir": "GoldenDict",
+    "url": "https://github.com/xiaoyifang/goldendict-ng/releases/download/v23.06.01-ChildrenDay.230601.6d3d4053/6.4.3-GoldenDict-ng-Installer.exe#dl.7z",
+    "hash": "sha256:5744843ed3df816b3eb1aee028fb7512e0a17c8d1d852b61f920c593ea7b3914",
     "bin": "GoldenDict.exe",
     "shortcuts": [
         [
             "GoldenDict.exe",
-            "GoldenDict"
+            "GoldenDict-ng"
         ]
     ],
     "persist": [
